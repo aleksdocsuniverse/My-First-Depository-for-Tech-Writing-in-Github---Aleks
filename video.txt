@@ -1,5 +1,0 @@
-<div align="left">
-<a href="https://www.youtube.com/watch?v=Z-vZuBX0Cmk">
-<img src"https://img.youtube.com/vi/Z-vZuBX0Cmk/0.jpg"style="width:100%;">
-</a>
-</div>
